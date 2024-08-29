@@ -4,8 +4,6 @@ import { NavigationContainer } from "@react-navigation/native";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 import Ionicons from "react-native-vector-icons/Ionicons";
 
-import RideScreen from "../screens/Clock";
-import RideHistoryScreen from "../screens/Timer";
 import ClockScreen from "../screens/Clock";
 import TimerScreen from "../screens/Timer";
 
